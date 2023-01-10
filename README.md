@@ -1,11 +1,13 @@
 # Final Case
-Trafik Kazaları Analiz Projesi ve Dünya Mutululuk Raporu olmak üzere iki adet veri bilimi projesi bulunuyor.
+Trafik Kazaları Analiz Projesi ve Dünya Mutluluk Raporu olmak üzere iki adet veri bilimi projesi bulunuyor.
 
 ### Trafik Kazaları Analiz Projesi
+(Dataset = https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales)
 - Trafik akışının değişmesi kazaları nasıl etkiler?
 - Kaza oranlarını ne artırır?
 - Zaman içinde kaza oranlarını tahmin edebilir miyiz?
-- Kırsal ve kentsel alanlar nasıl farklılaştı? 
+- Kırsal ve kentsel alanlar nasıl farklılaştı?
+Veriler farklı yıllara göre ayrıldığı için (2005-2007, 2009-2011, 2012-2014) öncelikle onları bir araya getirdim. Bu yeni dataset ile analiz edildi.
 
 
 ### Dünya Mutululuk Raporu
